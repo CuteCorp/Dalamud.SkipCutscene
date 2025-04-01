@@ -16,8 +16,8 @@
 			"cutscene",
 			"msq"
 		],
-		"DownloadLinkInstall": "https://github.com/CuteCorp/Dalamud.SkipCutscene/releases/download/v1.2.2.5x/latest.zip",
-		"DownloadLinkTesting": "https://github.com/CuteCorp/Dalamud.SkipCutscene/releases/download/v1.2.2.5x/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/CuteCorp/Dalamud.SkipCutscene/releases/download/v1.2.2.5x/latest.zip"
+		"DownloadLinkInstall": "https://github.com/CuteCorp/Dalamud.SkipCutscene/releases/download/v1.2.2.6/latest.zip",
+		"DownloadLinkTesting": "https://github.com/CuteCorp/Dalamud.SkipCutscene/releases/download/v1.2.2.6/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/CuteCorp/Dalamud.SkipCutscene/releases/download/v1.2.2.6/latest.zip"
 	}
 ]
