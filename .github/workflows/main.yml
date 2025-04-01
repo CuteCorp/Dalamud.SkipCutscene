@@ -10,7 +10,8 @@ concurrency:
 # Only run this workflow when a tag is pushed when the tag starts with "v".
 on:
   push:
-    branches: [main]
+    tags:
+      - 'v*'
 
 # So we can use the GitHub API to create releases with the run token.
 permissions:
